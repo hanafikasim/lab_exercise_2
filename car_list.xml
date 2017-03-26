@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<list>
+	<car>
+		<title>2009 BMW 320i 2.0 (A) M-Performance M-Sport</title>
+		<price>RM 82,000</price>
+		<spec>
+			<type>Used</type>
+			<year>2009</year>
+			<mileage>70,000 - 74,999</mileage>   
+			<cc>2000cc</cc>
+		</spec>
+		<image>img/bmw_320i.jpg</image>
+		<desc>One Owner. Condition Like New. One Day Approved</desc>
+	</car>
+	<car>
+		<title>2009 Proton Exora 1.6 (A) CAMPPRO FULL SPEC</title>
+		<price>RM 26,333</price>
+		<spec>
+			<type>Used</type>   
+			<year>2009</year>   
+			<mileage>55,000 - 59,999</mileage>   
+			<cc>1598cc</cc>
+		</spec>
+		<image>img/proton_exora.jpg</image>
+		<desc>We offer high trade in value. 100% free accident. Car in showroom condition.</desc>
+	</car>
+	<car>
+		<title>2010 Proton Persona 1.6 (A) TIP TOP CONDITION</title>
+		<price>RM 19,333</price>
+		<spec>
+			<type>Used</type> 
+			<year>2010</year> 
+			<mileage>90,000 - 94,999</mileage>   
+			<cc>1600cc</cc>
+		</spec>
+		<image>img/proton_persona.jpeg</image>
+		<desc>Accident free. Original metallic paint. CD player. Sport Rims. All in good condition.</desc>
+	</car>
+	<car>
+		<title>2011 Toyota Hilux 3.0 (A) VNT Turbo Diesel</title>
+		<price>RM 63,800</price>
+		<spec>
+			<type>Used</type>   
+			<year>2011</year>   
+			<mileage>80,000 - 84,999</mileage>   
+			<cc>3000cc</cc>
+		</spec>
+		<image>img/toyota_hilux.jpg</image>
+		<desc>No GST Charge. No Booking Fees. No Processing Charge.</desc>
+	</car>
+	<car>
+		<title>2009 Proton Perdana 2.0 V6 Enhanced</title>
+		<price>RM 16,800</price>
+		<spec>
+			<type>Used</type>
+			<year>2009</year>   
+			<mileage>55,000 - 59,999</mileage>   
+			<cc>2000cc</cc>
+		</spec>
+		<image>img/proton_perdana.jpg</image>
+		<desc>One Careful Owner. If Interested, Call For More Information.</desc>
+	</car>
+	<car>
+		<title>2012 Honda Civic 1.5 (A) HYBRID</title>
+		<price>RM 58,500</price>
+		<spec>
+			<type>Used</type>   
+			<year>2012</year>   
+			<mileage>65,000 - 69,999</mileage>   
+			<cc>1500cc</cc>
+		</spec>
+		<image>img/honda_civic.jpg</image>
+		<desc>Very nice interior. Trade in available. New paint. Free tinted.</desc>
+	</car>
+</list>
